@@ -1,7 +1,3 @@
-## Decentralized Voting System
-
-A decentralized voting system built on Ethereum using Solidity. This project allows for transparent, tamper-proof voting where participants can cast their votes on a blockchain, ensuring integrity and fairness.
-
 ### Features
 
 - **Smart Contract-Based Voting**: The entire voting process is handled by a smart contract, ensuring no tampering or manipulation.
